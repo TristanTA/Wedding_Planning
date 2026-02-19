@@ -1,33 +1,23 @@
-# Site identity
-url: https://TristanTA.github.io
-baseurl: /Wedding_Planning
-
-# Theme (sleek, minimal, easy on eyes)
 theme: minima
 
-# Appearance settings
 minima:
-  skin: auto   # automatically matches light/dark mode
-  social_links: []
+  skin: auto
 
-# Markdown rendering
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+header_pages: []
 
-# Clean URLs
 permalink: pretty
 
-# Remove clutter
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
 show_excerpts: false
 show_downloads: false
 
-# Build settings
 plugins:
   - jekyll-feed
 
-# Exclude files from site
 exclude:
   - README.md
   - .gitignore
