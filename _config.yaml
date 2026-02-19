@@ -1,6 +1,4 @@
 # Site identity
-title: Tristan & Grace
-description: Wedding Planning
 url: https://TristanTA.github.io
 baseurl: /Wedding_Planning
 
@@ -24,9 +22,6 @@ permalink: pretty
 # Remove clutter
 show_excerpts: false
 show_downloads: false
-
-# Footer
-footer_content: "Tristan & Grace's Wedding"
 
 # Build settings
 plugins:
