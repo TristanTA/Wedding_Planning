@@ -1,0 +1,38 @@
+# Site identity
+title: Tristan & Grace
+description: Wedding Planning
+url: https://TristanTA.github.io
+baseurl: /Wedding_Planning
+
+# Theme (sleek, minimal, easy on eyes)
+theme: minima
+
+# Appearance settings
+minima:
+  skin: auto   # automatically matches light/dark mode
+  social_links: []
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Clean URLs
+permalink: pretty
+
+# Remove clutter
+show_excerpts: false
+show_downloads: false
+
+# Footer
+footer_content: "Tristan & Grace's Wedding"
+
+# Build settings
+plugins:
+  - jekyll-feed
+
+# Exclude files from site
+exclude:
+  - README.md
+  - .gitignore
