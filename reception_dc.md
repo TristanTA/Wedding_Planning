@@ -1,23 +1,31 @@
-# Washington DC Reception
+---
+layout: page
+title: Washington DC Reception
+permalink: /reception-dc/
+---
 
-Date: August 6
+## Event Details
 
-## Quick facts
-- Venue: [Venue name — placeholder]
-- Address: [Street address — placeholder], Washington, DC
-- Time: [Start time — placeholder]
-- Contact: [Name — placeholder] — [Phone / Email — placeholder]
+- **Date:** August 6
+- **Venue:** [Venue name — coming soon]
+- **Address:** [Street address — placeholder], Washington, DC
+- **Time:** 6:00 PM
+- **Contact:** [Name — placeholder] — [Phone / Email]
 
-## Map & directions
+## Map & Directions
+
 - [Google Maps link — placeholder]
 
-## Timeline (short)
-- Guests arrive / cocktail hour — [time]
-- Dinner & toasts — [time]
-- Dancing / send-off — [time]
+## Tentative Timeline
 
-## Arrival & parking
-- Short note about drop-off and recommended parking spots.
+- **Guest arrival / cocktail hour:** [time]
+- **Dinner & toasts:** [time]
+- **Dancing / send-off:** [time]
 
-## Dress code
-- Semi-formal / festive (placeholder)
+## Arrival & Parking
+
+A detailed parking and drop-off plan will be added once the venue is finalized.
+
+## Dress Code
+
+**Semi-formal / festive**

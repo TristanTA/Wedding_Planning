@@ -1,8 +1,21 @@
-# Tristan & Grace's Wedding — Quick Info
+---
+layout: page
+title: Tristan & Grace's Wedding
+permalink: /
+---
 
-Welcome! This site is a quick reference for friends and family. Click an event below to jump to details.
+> Welcome! This website is your quick guide for wedding events, travel details, and day-of contacts.
+
+## At a Glance
+
+| Event | Date & Time | Location |
+| --- | --- | --- |
+| Idaho Falls Reception | **July 25, 6:00–10:00 PM** | Idaho Falls, ID (venue details coming soon) |
+| Sealing Ceremony | **August 6, 12:00 PM** | Washington DC Temple, Kensington, MD |
+| Washington DC Reception | **August 6, 6:00 PM** | Washington, DC (venue details coming soon) |
 
 ## Quick Links
+
 - [Idaho Falls Reception](reception_idaho_falls.md)
 - [Sealing — DC LDS Temple](sealing_dc_temple.md)
 - [Washington DC Reception](reception_dc.md)
@@ -14,17 +27,4 @@ Welcome! This site is a quick reference for friends and family. Click an event b
 
 ---
 
-## Summary (at-a-glance)
-- Idaho Falls Reception
-    - July 25 at 7:00 pm
-    - Location TBD
-- Sealing
-    - August 6th at 12:00 pm
-    - DC Temple (9900 Stoneybrook Dr, Kensington, MD 20895)
-- Washington DC Reception
-    - August 6th at 6:00 pm
-    Location TBD
-
----
-
-If you're helping with day-of logistics, see the individual event pages for timelines, parking, and points of contact.
+If you're helping with day-of logistics, please check each event page for timelines, parking notes, and primary contacts.

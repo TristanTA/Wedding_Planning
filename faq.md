@@ -1,13 +1,19 @@
-# FAQ
+---
+layout: page
+title: FAQ
+permalink: /faq/
+---
 
-Q: Can I bring kids?
-A: [policy placeholder]
+## Frequently Asked Questions
 
-Q: What is the dress code?
-A: See event pages (short answer: semi-formal).
+### Can I bring kids?
+Yes — kids are welcome at both receptions.
 
-Q: Can I take photos at the temple?
-A: Temple policies vary; expect restrictions. See the sealing page for the current note.
+### What is the dress code?
+Please plan on **semi-formal** attire. Event-specific details are listed on each reception page.
 
-Q: Who do I contact if I'm running late?
-A: See Contact page for day-of phone numbers.
+### Can I take photos at the temple?
+Temple policies vary and may include photography restrictions. Please see the [sealing page](sealing_dc_temple.md) for updates.
+
+### Who should I contact if I'm running late?
+Please use the contacts listed on the [Contact & Emergency page](contact.md).

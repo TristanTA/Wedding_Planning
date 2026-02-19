@@ -1,9 +1,21 @@
 theme: minima
 
+title: Tristan & Grace's Wedding
+
+description: Wedding details, RSVP, travel tips, and contacts.
+
 minima:
   skin: auto
 
-header_pages: []
+header_pages:
+  - reception_idaho_falls.md
+  - sealing_dc_temple.md
+  - reception_dc.md
+  - travel_and_lodging.md
+  - rsvp.md
+  - registry.md
+  - faq.md
+  - contact.md
 
 permalink: pretty
 
