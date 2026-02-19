@@ -1,22 +1,30 @@
-# Sealing — DC LDS Temple
+---
+layout: page
+title: Sealing — DC LDS Temple
+permalink: /sealing-dc-temple/
+---
 
-Date: August 6
+## Event Details
 
-## Quick facts
-- Temple: Washington DC Temple (LDS)
-- Address: [Temple address — placeholder]
-- Time: [Sealing time — placeholder]
-- Contact: [Name — placeholder] — [Phone / Email]
+- **Date:** August 6
+- **Temple:** Washington DC Temple (LDS)
+- **Address:** 9900 Stoneybrook Dr, Kensington, MD 20895
+- **Time:** 12:00 PM
+- **Contact:** [Name — placeholder] — [Phone / Email]
 
-## Important: Temple policies
-- Temples have specific rules about attendance and photography. Please follow temple guidance; we will provide final details closer to the date. If you have questions about attending, contact the couple.
+## Temple Policies
 
-## Map & directions
+Temple attendance and photography are governed by temple guidelines. We will share final instructions as the date approaches.
+
+## Map & Directions
+
 - [Google Maps link — placeholder]
 
-## Arrival / entry
-- Recommended arrival window: [placeholder]
-- Drop-off / shuttle suggestions: [placeholder]
+## Arrival & Entry
+
+- **Recommended arrival window:** [placeholder]
+- **Drop-off / shuttle guidance:** [placeholder]
 
 ## Notes
-- Photography: Temple guidance may restrict photography inside temple grounds or buildings. We will provide specific instructions.
+
+Photography may be restricted in certain areas; please follow posted guidance and on-site instructions.

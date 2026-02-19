@@ -1,13 +1,22 @@
-# RSVP
+---
+layout: page
+title: RSVP
+permalink: /rsvp/
+---
 
-Please RSVP by: [deadline — placeholder]
+## RSVP Deadline
 
-How to RSVP:
-- Option A: [Google Form link — placeholder]
-- Option B: Reply to [email] or text [phone] with names and meal choices.
+Please RSVP by **[deadline — placeholder]**.
 
-Meal choices & dietary needs:
-- Please indicate any dietary restrictions when you RSVP.
+## How to RSVP
 
-Last-minute changes:
-- Contact: [Name — placeholder] — [Phone]
+- **Option A:** [Google Form link — placeholder]
+- **Option B:** Reply to [email] or text [phone] with your names and meal choices.
+
+## Meal Choices & Dietary Needs
+
+Please include any dietary restrictions in your RSVP response.
+
+## Last-Minute Changes
+
+- **Contact:** [Name — placeholder] — [Phone]

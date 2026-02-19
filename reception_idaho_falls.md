@@ -1,34 +1,42 @@
-# Reception — Idaho Falls, ID
+---
+layout: page
+title: Reception — Idaho Falls, ID
+permalink: /reception-idaho-falls/
+---
 
-Date: July 25
+## Event Details
 
-## Quick facts
-- Venue: [Venue name — placeholder]
-- Address: [Street address — placeholder], Idaho Falls, ID
-- Time: 6:00 pm - 10:00 pm
-- Contact: [Name — placeholder] — [Phone / Email — placeholder]
+- **Date:** July 25
+- **Venue:** [Venue name — placeholder]
+- **Address:** [Street address — placeholder], Idaho Falls, ID
+- **Time:** 6:00–10:00 PM
+- **Contact:** [Name — placeholder] — [Phone / Email]
 
-## Map & directions
+## Map & Directions
+
 - [Google Maps link — placeholder]
 
-## Arrival & parking
-- Short note about drop-off and recommended parking spots.
+## Arrival & Parking
 
-## Timeline (short)
-- Guests arrive / Sign in — 6:00 pm to 6:30 pm
-- Welcome / Dinner — 6:30 pm to 7:00 pm
-- Dance Instruction — 7:00 pm to 7:30 pm
-- Jazz Dance (Dinner Continued) — 7:30 pm to 8:30 pm
-- Open Dance — 8:30 pm to 9:30 pm
-- Send Off — 9:30 pm 
+Please watch for updated drop-off and parking instructions closer to the event.
 
-## Dress code
-- Semi-formal
-    - Men:
-        - White shirt and slacks, ties optional
-    - Women:
-        - Skirt, dress, or dress pants
+## Timeline
+
+- **6:00–6:30 PM:** Guests arrive / sign in
+- **6:30–7:00 PM:** Welcome / dinner
+- **7:00–7:30 PM:** Dance instruction
+- **7:30–8:30 PM:** Jazz dance (dinner continued)
+- **8:30–9:30 PM:** Open dance
+- **9:30 PM:** Send-off
+
+## Dress Code
+
+**Semi-formal**
+
+- **Men:** White shirt and slacks (tie optional)
+- **Women:** Skirt, dress, or dress pants
 
 ## Notes
-- Dietary requests: [how to indicate — see RSVP]
-- Kids: Allowed and Encouraged
+
+- **Dietary requests:** Please include on your RSVP.
+- **Kids:** Absolutely welcome.

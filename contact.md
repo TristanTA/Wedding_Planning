@@ -1,22 +1,26 @@
-# Contact & Emergency
+---
+layout: page
+title: Contact & Emergency
+permalink: /contact/
+---
 
 ## Couple
-- Tristan (Groom): (208) 932-6039
-- Grace (Bride): 331-3009
 
-## Reception coordinators
-- Idaho Falls Reception Coordinator: (555) 555-5555
-- Washington DC Reception Coordinator: (555) 555-5555
+- **Tristan (Groom):** (208) 932-6039
+- **Grace (Bride):** (331) 000-0000
+
+## Reception Coordinators
+
+- **Idaho Falls Reception Coordinator:** (555) 555-5555
+- **Washington DC Reception Coordinator:** (555) 555-5555
+
+## Emergency Contacts
+
+- **Chris Mabry:** [phone]
+- **Christina Mabry:** [phone]
+- **Travus Allen:** [phone]
+- **Marci Allen:** [phone]
 
 ---
 
-## Emergency contact
-- Chris Mabry:
-- Christina Mabry:
-- Travus Allen
-- Marci Allen
-
-
-
-Notes:
-- For day-of issues, please contact the reception coordinator for that city first. If they cannot help, contact Tristan or Grace.
+> For day-of issues, please contact the reception coordinator for that city first. If needed, follow up with Tristan or Grace.
